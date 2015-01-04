@@ -59,6 +59,7 @@ An example of the manifest file:
     
 ```json
 {
+  "default_locale": "en-US",
   "locales": [
     "en-US",
     "pl"
